@@ -28,7 +28,7 @@ colors:
 
 font:
   bold:
-    family: Fira Code
+    family: Hack Nerd Font
     # family: mononoki Nerd Font
     # family: agave Nerd Font
     # family: Caskaydia Cove Nerd Font
@@ -36,10 +36,10 @@ font:
     # family: Hurmit Nerd Font Mono
     # family: DaddyTimeMono Nerd Font
     # family: Iosevka NF
-    # family: Hack NF
+    # family: Hack Nerd Font NF
     # family: SpaceMono NF
   italic:
-    family: Fira Code
+    family: Hack Nerd Font
     # family: mononoki Nerd Font
     # family: agave Nerd Font
     # family: Caskaydia Cove Nerd Font
@@ -47,10 +47,10 @@ font:
     # family: Hurmit Nerd Font Mono
     # family: DaddyTimeMono Nerd Font
     # family: Iosevka NF
-    # family: Hack NF
+    # family: Hack Nerd Font NF
     # family: SpaceMono NF
   normal:
-    family: Fira Code
+    family: Hack Nerd Font
     # family: mononoki Nerd Font
     # family: agave Nerd Font
     # family: Caskaydia Cove Nerd Font
