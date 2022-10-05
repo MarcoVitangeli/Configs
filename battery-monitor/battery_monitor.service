@@ -1,0 +1,11 @@
+[Unit]
+Description=Daemon to send an alarm if battery level is lower than 20%
+
+[Service]
+Type=simple
+RemainAfterExit=yes
+ExecStart=/bin/bash /home/marco/.config/i3/battery_monitor.sh
+Environment="DISPLAY=:0"
+
+[Install]
+WantedBy=multi-user.target
